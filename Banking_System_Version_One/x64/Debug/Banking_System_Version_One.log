@@ -1,0 +1,5 @@
+﻿  Banking_System_Version_One.cpp
+C:\Users\SMILE  2022\source\repos\Banking_System_Version_One\Banking_System_Version_One\Banking_System_Version_One.cpp(28,26): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\SMILE  2022\source\repos\Banking_System_Version_One\Banking_System_Version_One\Banking_System_Version_One.cpp(386,1): warning C4715: 'UpdateClientByAccountNumber': not all control paths return a value
+C:\Users\SMILE  2022\source\repos\Banking_System_Version_One\Banking_System_Version_One\Banking_System_Version_One.cpp(349,1): warning C4715: 'DeleteClientByAccountNumber': not all control paths return a value
+  Banking_System_Version_One.vcxproj -> C:\Users\SMILE  2022\source\repos\Banking_System_Version_One\x64\Debug\Banking_System_Version_One.exe
